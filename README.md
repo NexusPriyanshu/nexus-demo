@@ -1,4 +1,5 @@
 # nexus-demo
 This is my first Git Repository
 <br>
-Author - Priyanshu Kanaujia
+Author - Priyanshu (Nexus)
+
